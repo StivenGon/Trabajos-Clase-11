@@ -17,6 +17,7 @@ public class Detalle extends javax.swing.JFrame {
     /**
      *  @autor Stiven Gonzalez
      *  Clase Virtual desarrollada el 26 diciembre 2023
+     * 
      */
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
