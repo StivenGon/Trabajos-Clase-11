@@ -6,7 +6,7 @@ Ejercicio realizados con el IDE NetBean el 26 de diciembre de manera virtual, co
 - Implementación de mas artículos en la tienda (8 productos)
 - Modificación de la gui 
 - Modificación de tanto como la disposición de botones interactivos al usuario y de los mensajes-imagenes desplegadas en este para un mayor atractivo visual
-  
+- Commits Recientes " Correción ortográfica en el @author en los códigos"
 ### Contenido
 
 - Menu de inicio de sesión para el usuario: [Login](Tienda/src/tienda/Login.java)
