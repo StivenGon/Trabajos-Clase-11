@@ -11,7 +11,7 @@ public class Menu extends javax.swing.JFrame {
     }
 
     /**
-     *  @autor Stiven Gonzalez
+     *  @author Stiven Gonzalez
      *  Clase Virtual desarrollada el 26 diciembre 2023
      */
     @SuppressWarnings("unchecked")
