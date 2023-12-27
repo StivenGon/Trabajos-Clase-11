@@ -823,7 +823,7 @@ public class Detalle extends javax.swing.JFrame {
         }
         
         // calculo total
-        float pagoTotal= aPagar1 + aPagar2 + aPagar3 + aPagar4+ aPagar5 +aPagar6 + aPagar7;
+        float pagoTotal= aPagar1 + aPagar2 + aPagar3 + aPagar4+ aPagar5 +aPagar6 + aPagar7 + aPagar8;
         String pagoTotalS = df.format(pagoTotal);
         txtTotalPagar.setText(pagoTotalS);
         
